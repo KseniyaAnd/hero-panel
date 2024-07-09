@@ -1,0 +1,43 @@
+{
+  "heroes": [
+    {
+      "id": "af4902c5-8137-42ee-8875-d268e3eca9f6",
+      "name": "Леонеля Месси",
+      "description": "КаКАТЬ",
+      "element": "water"
+    },
+    {
+      "id": "c82bf549-76c1-4c89-9444-604041ca6127",
+      "name": "sds",
+      "description": "d",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
